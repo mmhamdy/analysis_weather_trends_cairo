@@ -1,0 +1,1460 @@
+year,city,avg_temp_city
+1808,Cairo,17.11
+1809,Cairo,19.87
+1810,Cairo,19.93
+1811,Cairo,20.00
+1812,Cairo,19.93
+1813,Cairo,20.51
+1814,Cairo,20.43
+1815,Cairo,20.30
+1816,Cairo,20.51
+1817,Cairo,21.88
+1818,Cairo,11.60
+1819,Cairo,20.31
+1820,Cairo,20.58
+1821,Cairo,20.63
+1822,Cairo,20.72
+1823,Cairo,20.71
+1824,Cairo,21.44
+1825,Cairo,21.00
+1826,Cairo,20.94
+1827,Cairo,21.63
+1828,Cairo,20.99
+1829,Cairo,20.91
+1830,Cairo,21.25
+1831,Cairo,20.52
+1832,Cairo,20.20
+1833,Cairo,20.81
+1834,Cairo,20.69
+1835,Cairo,20.17
+1836,Cairo,20.59
+1837,Cairo,20.27
+1838,Cairo,20.21
+1839,Cairo,20.43
+1840,Cairo,20.56
+1841,Cairo,20.91
+1842,Cairo,20.92
+1843,Cairo,20.83
+1844,Cairo,20.66
+1845,Cairo,20.90
+1846,Cairo,21.57
+1847,Cairo,21.10
+1848,Cairo,20.89
+1849,Cairo,20.90
+1850,Cairo,20.39
+1851,Cairo,21.11
+1852,Cairo,21.04
+1853,Cairo,21.53
+1854,Cairo,20.74
+1855,Cairo,21.04
+1856,Cairo,20.49
+1857,Cairo,20.29
+1858,Cairo,20.90
+1859,Cairo,20.98
+1860,Cairo,21.33
+1861,Cairo,20.21
+1862,Cairo,20.22
+1863,Cairo,20.60
+1864,Cairo,21.25
+1865,Cairo,21.55
+1866,Cairo,21.35
+1867,Cairo,21.45
+1868,Cairo,20.94
+1869,Cairo,21.41
+1870,Cairo,21.30
+1871,Cairo,20.87
+1872,Cairo,21.14
+1873,Cairo,21.40
+1874,Cairo,20.77
+1875,Cairo,19.99
+1876,Cairo,21.05
+1877,Cairo,21.39
+1878,Cairo,21.54
+1879,Cairo,21.49
+1880,Cairo,21.20
+1881,Cairo,21.56
+1882,Cairo,20.38
+1883,Cairo,20.65
+1884,Cairo,20.23
+1885,Cairo,20.91
+1886,Cairo,20.55
+1887,Cairo,21.21
+1888,Cairo,21.04
+1889,Cairo,21.05
+1890,Cairo,21.09
+1891,Cairo,21.13
+1892,Cairo,21.39
+1893,Cairo,20.57
+1894,Cairo,20.95
+1895,Cairo,20.97
+1896,Cairo,21.17
+1897,Cairo,20.82
+1898,Cairo,20.92
+1899,Cairo,21.04
+1900,Cairo,21.57
+1901,Cairo,21.89
+1902,Cairo,21.36
+1903,Cairo,20.39
+1904,Cairo,20.61
+1905,Cairo,21.03
+1906,Cairo,21.24
+1907,Cairo,20.45
+1908,Cairo,20.37
+1909,Cairo,21.40
+1910,Cairo,20.65
+1911,Cairo,20.78
+1912,Cairo,20.79
+1913,Cairo,20.40
+1914,Cairo,20.96
+1915,Cairo,21.57
+1916,Cairo,21.73
+1917,Cairo,21.12
+1918,Cairo,21.43
+1919,Cairo,21.43
+1920,Cairo,20.72
+1921,Cairo,20.73
+1922,Cairo,21.39
+1923,Cairo,21.39
+1924,Cairo,21.61
+1925,Cairo,21.37
+1926,Cairo,21.22
+1927,Cairo,21.76
+1928,Cairo,21.72
+1929,Cairo,21.07
+1930,Cairo,21.73
+1931,Cairo,21.60
+1932,Cairo,21.43
+1933,Cairo,21.24
+1934,Cairo,21.52
+1935,Cairo,21.61
+1936,Cairo,22.00
+1937,Cairo,21.82
+1938,Cairo,20.92
+1939,Cairo,21.85
+1940,Cairo,21.59
+1941,Cairo,21.76
+1942,Cairo,21.59
+1943,Cairo,21.35
+1944,Cairo,21.40
+1945,Cairo,20.83
+1946,Cairo,21.76
+1947,Cairo,21.94
+1948,Cairo,20.88
+1949,Cairo,20.68
+1950,Cairo,21.53
+1951,Cairo,21.82
+1952,Cairo,21.92
+1953,Cairo,21.17
+1954,Cairo,21.45
+1955,Cairo,22.10
+1956,Cairo,21.48
+1957,Cairo,21.49
+1958,Cairo,21.85
+1959,Cairo,20.98
+1960,Cairo,22.30
+1961,Cairo,21.14
+1962,Cairo,22.11
+1963,Cairo,22.09
+1964,Cairo,21.07
+1965,Cairo,21.52
+1966,Cairo,22.10
+1967,Cairo,20.92
+1968,Cairo,21.48
+1969,Cairo,21.88
+1970,Cairo,21.53
+1971,Cairo,21.41
+1972,Cairo,21.57
+1973,Cairo,21.42
+1974,Cairo,21.55
+1975,Cairo,21.35
+1976,Cairo,21.28
+1977,Cairo,21.57
+1978,Cairo,21.67
+1979,Cairo,22.06
+1980,Cairo,21.52
+1981,Cairo,21.42
+1982,Cairo,21.04
+1983,Cairo,20.75
+1984,Cairo,21.32
+1985,Cairo,21.72
+1986,Cairo,21.52
+1987,Cairo,21.24
+1988,Cairo,21.65
+1989,Cairo,21.43
+1990,Cairo,21.60
+1991,Cairo,21.65
+1992,Cairo,21.11
+1993,Cairo,21.79
+1994,Cairo,22.02
+1995,Cairo,21.56
+1996,Cairo,21.88
+1997,Cairo,21.45
+1998,Cairo,22.36
+1999,Cairo,22.28
+2000,Cairo,21.49
+2001,Cairo,22.33
+2002,Cairo,22.41
+2003,Cairo,22.17
+2004,Cairo,22.08
+2005,Cairo,22.01
+2006,Cairo,22.05
+2007,Cairo,22.36
+2008,Cairo,22.64
+2009,Cairo,22.63
+2010,Cairo,23.72
+2011,Cairo,21.99
+2012,Cairo,22.48
+2013,Cairo,22.91
+1743,Chicago,5.44
+1744,Chicago,11.73
+1745,Chicago,1.80
+1746,Chicago,
+1747,Chicago,
+1748,Chicago,
+1749,Chicago,
+1750,Chicago,10.49
+1751,Chicago,11.19
+1752,Chicago,4.50
+1753,Chicago,10.04
+1754,Chicago,10.64
+1755,Chicago,7.41
+1756,Chicago,11.15
+1757,Chicago,9.50
+1758,Chicago,8.61
+1759,Chicago,9.59
+1760,Chicago,8.05
+1761,Chicago,10.40
+1762,Chicago,9.82
+1763,Chicago,7.72
+1764,Chicago,10.63
+1765,Chicago,9.78
+1766,Chicago,10.49
+1767,Chicago,9.41
+1768,Chicago,8.95
+1769,Chicago,9.79
+1770,Chicago,9.66
+1771,Chicago,10.44
+1772,Chicago,10.27
+1773,Chicago,10.42
+1774,Chicago,10.27
+1775,Chicago,10.99
+1776,Chicago,9.98
+1777,Chicago,9.67
+1778,Chicago,7.63
+1779,Chicago,10.32
+1780,Chicago,12.54
+1781,Chicago,10.18
+1782,Chicago,9.69
+1783,Chicago,9.44
+1784,Chicago,9.40
+1785,Chicago,9.20
+1786,Chicago,9.75
+1787,Chicago,9.78
+1788,Chicago,10.28
+1789,Chicago,10.03
+1790,Chicago,9.93
+1791,Chicago,10.12
+1792,Chicago,9.62
+1793,Chicago,10.20
+1794,Chicago,10.30
+1795,Chicago,10.01
+1796,Chicago,9.92
+1797,Chicago,9.66
+1798,Chicago,10.43
+1799,Chicago,10.11
+1800,Chicago,10.11
+1801,Chicago,10.47
+1802,Chicago,10.66
+1803,Chicago,10.48
+1804,Chicago,10.41
+1805,Chicago,10.63
+1806,Chicago,10.10
+1807,Chicago,9.88
+1808,Chicago,9.84
+1809,Chicago,9.04
+1810,Chicago,9.22
+1811,Chicago,9.37
+1812,Chicago,8.34
+1813,Chicago,9.67
+1814,Chicago,9.55
+1815,Chicago,8.86
+1816,Chicago,8.27
+1817,Chicago,8.54
+1818,Chicago,9.42
+1819,Chicago,9.19
+1820,Chicago,9.02
+1821,Chicago,9.08
+1822,Chicago,9.87
+1823,Chicago,9.31
+1824,Chicago,9.57
+1825,Chicago,10.87
+1826,Chicago,10.19
+1827,Chicago,10.58
+1828,Chicago,11.00
+1829,Chicago,9.94
+1830,Chicago,11.11
+1831,Chicago,9.02
+1832,Chicago,10.33
+1833,Chicago,10.70
+1834,Chicago,10.92
+1835,Chicago,9.44
+1836,Chicago,8.68
+1837,Chicago,9.42
+1838,Chicago,8.81
+1839,Chicago,10.57
+1840,Chicago,10.24
+1841,Chicago,9.83
+1842,Chicago,10.32
+1843,Chicago,8.78
+1844,Chicago,10.28
+1845,Chicago,10.60
+1846,Chicago,11.29
+1847,Chicago,9.23
+1848,Chicago,9.77
+1849,Chicago,9.34
+1850,Chicago,9.89
+1851,Chicago,10.17
+1852,Chicago,9.82
+1853,Chicago,10.21
+1854,Chicago,10.96
+1855,Chicago,9.71
+1856,Chicago,8.66
+1857,Chicago,8.76
+1858,Chicago,10.53
+1859,Chicago,9.76
+1860,Chicago,9.75
+1861,Chicago,9.62
+1862,Chicago,9.36
+1863,Chicago,9.73
+1864,Chicago,9.35
+1865,Chicago,9.92
+1866,Chicago,9.05
+1867,Chicago,9.43
+1868,Chicago,8.88
+1869,Chicago,8.73
+1870,Chicago,10.55
+1871,Chicago,9.91
+1872,Chicago,8.72
+1873,Chicago,8.84
+1874,Chicago,10.18
+1875,Chicago,7.80
+1876,Chicago,9.69
+1877,Chicago,10.68
+1878,Chicago,11.31
+1879,Chicago,10.11
+1880,Chicago,10.46
+1881,Chicago,10.25
+1882,Chicago,10.38
+1883,Chicago,8.42
+1884,Chicago,9.35
+1885,Chicago,7.96
+1886,Chicago,9.40
+1887,Chicago,9.64
+1888,Chicago,8.74
+1889,Chicago,10.02
+1890,Chicago,10.21
+1891,Chicago,10.29
+1892,Chicago,9.21
+1893,Chicago,8.91
+1894,Chicago,10.79
+1895,Chicago,9.32
+1896,Chicago,10.39
+1897,Chicago,10.05
+1898,Chicago,10.24
+1899,Chicago,10.12
+1900,Chicago,10.63
+1901,Chicago,9.87
+1902,Chicago,10.04
+1903,Chicago,9.57
+1904,Chicago,8.56
+1905,Chicago,9.42
+1906,Chicago,10.56
+1907,Chicago,9.32
+1908,Chicago,10.68
+1909,Chicago,9.89
+1910,Chicago,10.20
+1911,Chicago,10.87
+1912,Chicago,8.95
+1913,Chicago,10.83
+1914,Chicago,10.20
+1915,Chicago,9.98
+1916,Chicago,9.84
+1917,Chicago,8.06
+1918,Chicago,10.06
+1919,Chicago,10.64
+1920,Chicago,9.83
+1921,Chicago,12.28
+1922,Chicago,10.92
+1923,Chicago,10.12
+1924,Chicago,8.77
+1925,Chicago,9.93
+1926,Chicago,9.12
+1927,Chicago,10.54
+1928,Chicago,10.21
+1929,Chicago,9.28
+1930,Chicago,10.79
+1931,Chicago,12.39
+1932,Chicago,10.61
+1933,Chicago,11.09
+1934,Chicago,10.87
+1935,Chicago,10.01
+1936,Chicago,9.86
+1937,Chicago,9.99
+1938,Chicago,11.40
+1939,Chicago,11.35
+1940,Chicago,9.67
+1941,Chicago,11.41
+1942,Chicago,10.41
+1943,Chicago,9.72
+1944,Chicago,10.82
+1945,Chicago,9.96
+1946,Chicago,11.40
+1947,Chicago,10.22
+1948,Chicago,10.41
+1949,Chicago,11.18
+1950,Chicago,9.43
+1951,Chicago,9.42
+1952,Chicago,10.91
+1953,Chicago,11.67
+1954,Chicago,11.11
+1955,Chicago,11.01
+1956,Chicago,10.72
+1957,Chicago,10.42
+1958,Chicago,9.90
+1959,Chicago,10.43
+1960,Chicago,10.11
+1961,Chicago,10.58
+1962,Chicago,9.99
+1963,Chicago,9.89
+1964,Chicago,11.06
+1965,Chicago,10.34
+1966,Chicago,10.05
+1967,Chicago,9.84
+1968,Chicago,10.66
+1969,Chicago,10.03
+1970,Chicago,10.34
+1971,Chicago,10.58
+1972,Chicago,9.39
+1973,Chicago,11.55
+1974,Chicago,10.35
+1975,Chicago,10.82
+1976,Chicago,9.79
+1977,Chicago,10.46
+1978,Chicago,9.46
+1979,Chicago,9.37
+1980,Chicago,10.05
+1981,Chicago,10.54
+1982,Chicago,9.99
+1983,Chicago,10.94
+1984,Chicago,10.66
+1985,Chicago,10.11
+1986,Chicago,10.82
+1987,Chicago,12.04
+1988,Chicago,10.86
+1989,Chicago,9.80
+1990,Chicago,11.50
+1991,Chicago,11.58
+1992,Chicago,10.24
+1993,Chicago,10.18
+1994,Chicago,10.56
+1995,Chicago,10.57
+1996,Chicago,9.56
+1997,Chicago,10.14
+1998,Chicago,12.81
+1999,Chicago,11.72
+2000,Chicago,11.09
+2001,Chicago,11.70
+2002,Chicago,11.53
+2003,Chicago,10.48
+2004,Chicago,10.94
+2005,Chicago,11.58
+2006,Chicago,11.87
+2007,Chicago,11.45
+2008,Chicago,10.24
+2009,Chicago,10.30
+2010,Chicago,11.82
+2011,Chicago,11.21
+2012,Chicago,12.82
+2013,Chicago,11.59
+1743,Moscow,-2.57
+1744,Moscow,6.64
+1745,Moscow,-6.13
+1746,Moscow,
+1747,Moscow,
+1748,Moscow,
+1749,Moscow,
+1750,Moscow,4.84
+1751,Moscow,5.07
+1752,Moscow,-2.08
+1753,Moscow,3.87
+1754,Moscow,4.07
+1755,Moscow,3.99
+1756,Moscow,4.51
+1757,Moscow,4.66
+1758,Moscow,2.22
+1759,Moscow,3.45
+1760,Moscow,2.41
+1761,Moscow,4.14
+1762,Moscow,4.10
+1763,Moscow,2.91
+1764,Moscow,4.35
+1765,Moscow,4.30
+1766,Moscow,4.23
+1767,Moscow,4.05
+1768,Moscow,2.72
+1769,Moscow,3.85
+1770,Moscow,3.97
+1771,Moscow,3.23
+1772,Moscow,3.93
+1773,Moscow,4.79
+1774,Moscow,4.47
+1775,Moscow,5.29
+1776,Moscow,4.16
+1777,Moscow,3.78
+1778,Moscow,4.26
+1779,Moscow,4.99
+1780,Moscow,3.90
+1781,Moscow,3.92
+1782,Moscow,3.33
+1783,Moscow,3.89
+1784,Moscow,3.85
+1785,Moscow,2.65
+1786,Moscow,3.38
+1787,Moscow,4.14
+1788,Moscow,3.31
+1789,Moscow,4.60
+1790,Moscow,3.78
+1791,Moscow,4.80
+1792,Moscow,3.85
+1793,Moscow,4.32
+1794,Moscow,4.99
+1795,Moscow,4.05
+1796,Moscow,4.11
+1797,Moscow,5.19
+1798,Moscow,4.59
+1799,Moscow,3.35
+1800,Moscow,3.80
+1801,Moscow,4.74
+1802,Moscow,4.48
+1803,Moscow,3.35
+1804,Moscow,3.92
+1805,Moscow,3.65
+1806,Moscow,4.18
+1807,Moscow,4.15
+1808,Moscow,3.21
+1809,Moscow,1.90
+1810,Moscow,2.09
+1811,Moscow,3.21
+1812,Moscow,2.40
+1813,Moscow,3.45
+1814,Moscow,2.79
+1815,Moscow,2.82
+1816,Moscow,3.23
+1817,Moscow,3.17
+1818,Moscow,4.11
+1819,Moscow,3.39
+1820,Moscow,3.12
+1821,Moscow,3.88
+1822,Moscow,5.01
+1823,Moscow,3.99
+1824,Moscow,4.98
+1825,Moscow,3.60
+1826,Moscow,4.84
+1827,Moscow,4.37
+1828,Moscow,2.78
+1829,Moscow,2.45
+1830,Moscow,3.64
+1831,Moscow,3.50
+1832,Moscow,2.62
+1833,Moscow,3.93
+1834,Moscow,3.86
+1835,Moscow,2.89
+1836,Moscow,4.03
+1837,Moscow,2.97
+1838,Moscow,2.85
+1839,Moscow,3.49
+1840,Moscow,2.46
+1841,Moscow,4.46
+1842,Moscow,3.51
+1843,Moscow,4.81
+1844,Moscow,3.00
+1845,Moscow,2.93
+1846,Moscow,3.76
+1847,Moscow,4.02
+1848,Moscow,4.44
+1849,Moscow,3.18
+1850,Moscow,3.53
+1851,Moscow,4.52
+1852,Moscow,3.05
+1853,Moscow,3.87
+1854,Moscow,4.36
+1855,Moscow,3.44
+1856,Moscow,3.08
+1857,Moscow,3.81
+1858,Moscow,3.88
+1859,Moscow,4.99
+1860,Moscow,3.66
+1861,Moscow,3.25
+1862,Moscow,1.58
+1863,Moscow,5.41
+1864,Moscow,3.21
+1865,Moscow,3.27
+1866,Moscow,4.31
+1867,Moscow,2.29
+1868,Moscow,3.78
+1869,Moscow,5.04
+1870,Moscow,2.67
+1871,Moscow,2.25
+1872,Moscow,5.08
+1873,Moscow,4.13
+1874,Moscow,4.36
+1875,Moscow,1.50
+1876,Moscow,3.02
+1877,Moscow,3.13
+1878,Moscow,5.13
+1879,Moscow,3.56
+1880,Moscow,3.24
+1881,Moscow,2.84
+1882,Moscow,4.96
+1883,Moscow,4.03
+1884,Moscow,3.34
+1885,Moscow,4.00
+1886,Moscow,3.99
+1887,Moscow,4.43
+1888,Moscow,2.26
+1889,Moscow,3.57
+1890,Moscow,4.63
+1891,Moscow,3.97
+1892,Moscow,3.31
+1893,Moscow,2.60
+1894,Moscow,4.01
+1895,Moscow,3.66
+1896,Moscow,3.44
+1897,Moscow,4.49
+1898,Moscow,4.04
+1899,Moscow,3.76
+1900,Moscow,3.27
+1901,Moscow,4.57
+1902,Moscow,2.67
+1903,Moscow,5.24
+1904,Moscow,3.31
+1905,Moscow,4.54
+1906,Moscow,5.06
+1907,Moscow,2.39
+1908,Moscow,2.56
+1909,Moscow,3.76
+1910,Moscow,5.03
+1911,Moscow,3.39
+1912,Moscow,3.14
+1913,Moscow,4.82
+1914,Moscow,4.57
+1915,Moscow,3.52
+1916,Moscow,4.07
+1917,Moscow,3.28
+1918,Moscow,4.05
+1919,Moscow,3.19
+1920,Moscow,4.64
+1921,Moscow,4.33
+1922,Moscow,4.01
+1923,Moscow,3.94
+1924,Moscow,3.67
+1925,Moscow,5.39
+1926,Moscow,3.37
+1927,Moscow,3.50
+1928,Moscow,3.30
+1929,Moscow,3.01
+1930,Moscow,4.55
+1931,Moscow,3.28
+1932,Moscow,5.10
+1933,Moscow,2.72
+1934,Moscow,5.26
+1935,Moscow,4.56
+1936,Moscow,5.36
+1937,Moscow,5.16
+1938,Moscow,5.92
+1939,Moscow,4.63
+1940,Moscow,3.16
+1941,Moscow,1.67
+1942,Moscow,2.09
+1943,Moscow,4.63
+1944,Moscow,4.76
+1945,Moscow,2.94
+1946,Moscow,4.09
+1947,Moscow,3.77
+1948,Moscow,4.78
+1949,Moscow,5.27
+1950,Moscow,3.93
+1951,Moscow,3.99
+1952,Moscow,4.21
+1953,Moscow,4.00
+1954,Moscow,4.04
+1955,Moscow,3.71
+1956,Moscow,2.45
+1957,Moscow,5.38
+1958,Moscow,3.89
+1959,Moscow,4.30
+1960,Moscow,4.50
+1961,Moscow,5.28
+1962,Moscow,4.54
+1963,Moscow,3.17
+1964,Moscow,4.42
+1965,Moscow,3.35
+1966,Moscow,4.81
+1967,Moscow,4.55
+1968,Moscow,3.58
+1969,Moscow,2.47
+1970,Moscow,4.27
+1971,Moscow,4.37
+1972,Moscow,5.27
+1973,Moscow,4.48
+1974,Moscow,5.45
+1975,Moscow,6.01
+1976,Moscow,2.65
+1977,Moscow,4.43
+1978,Moscow,3.21
+1979,Moscow,4.37
+1980,Moscow,3.41
+1981,Moscow,5.67
+1982,Moscow,4.75
+1983,Moscow,5.65
+1984,Moscow,4.42
+1985,Moscow,3.30
+1986,Moscow,4.19
+1987,Moscow,2.49
+1988,Moscow,4.89
+1989,Moscow,6.63
+1990,Moscow,5.81
+1991,Moscow,5.62
+1992,Moscow,5.36
+1993,Moscow,4.15
+1994,Moscow,4.13
+1995,Moscow,5.88
+1996,Moscow,4.55
+1997,Moscow,4.56
+1998,Moscow,4.47
+1999,Moscow,5.94
+2000,Moscow,5.96
+2001,Moscow,5.32
+2002,Moscow,5.63
+2003,Moscow,4.99
+2004,Moscow,5.32
+2005,Moscow,5.54
+2006,Moscow,4.91
+2007,Moscow,6.43
+2008,Moscow,6.76
+2009,Moscow,5.69
+2010,Moscow,5.91
+2011,Moscow,6.01
+2012,Moscow,5.20
+2013,Moscow,6.80
+1743,New York,3.26
+1744,New York,11.66
+1745,New York,1.13
+1746,New York,
+1747,New York,
+1748,New York,
+1749,New York,
+1750,New York,10.07
+1751,New York,10.79
+1752,New York,2.81
+1753,New York,9.52
+1754,New York,9.88
+1755,New York,6.61
+1756,New York,9.94
+1757,New York,8.89
+1758,New York,8.15
+1759,New York,9.01
+1760,New York,7.73
+1761,New York,10.18
+1762,New York,9.55
+1763,New York,7.23
+1764,New York,9.55
+1765,New York,8.96
+1766,New York,10.09
+1767,New York,8.52
+1768,New York,8.67
+1769,New York,9.10
+1770,New York,9.04
+1771,New York,10.18
+1772,New York,9.64
+1773,New York,10.08
+1774,New York,9.52
+1775,New York,10.24
+1776,New York,9.13
+1777,New York,8.77
+1778,New York,6.89
+1779,New York,0.25
+1780,New York,
+1781,New York,9.79
+1782,New York,9.15
+1783,New York,8.81
+1784,New York,8.40
+1785,New York,8.49
+1786,New York,8.98
+1787,New York,8.97
+1788,New York,9.77
+1789,New York,9.42
+1790,New York,9.39
+1791,New York,9.37
+1792,New York,8.72
+1793,New York,9.88
+1794,New York,9.83
+1795,New York,9.21
+1796,New York,8.97
+1797,New York,8.85
+1798,New York,9.71
+1799,New York,9.19
+1800,New York,9.58
+1801,New York,10.00
+1802,New York,10.29
+1803,New York,10.07
+1804,New York,9.69
+1805,New York,10.43
+1806,New York,9.38
+1807,New York,9.17
+1808,New York,9.57
+1809,New York,8.87
+1810,New York,9.35
+1811,New York,9.43
+1812,New York,7.80
+1813,New York,8.93
+1814,New York,8.70
+1815,New York,8.27
+1816,New York,7.92
+1817,New York,7.78
+1818,New York,8.13
+1819,New York,9.07
+1820,New York,8.98
+1821,New York,8.53
+1822,New York,9.84
+1823,New York,8.64
+1824,New York,9.29
+1825,New York,10.21
+1826,New York,9.92
+1827,New York,9.26
+1828,New York,10.70
+1829,New York,9.17
+1830,New York,10.32
+1831,New York,9.07
+1832,New York,9.15
+1833,New York,9.15
+1834,New York,9.32
+1835,New York,8.48
+1836,New York,7.51
+1837,New York,8.12
+1838,New York,8.73
+1839,New York,9.17
+1840,New York,9.27
+1841,New York,9.00
+1842,New York,9.41
+1843,New York,8.49
+1844,New York,9.12
+1845,New York,9.49
+1846,New York,9.66
+1847,New York,9.30
+1848,New York,9.54
+1849,New York,8.83
+1850,New York,9.10
+1851,New York,9.26
+1852,New York,8.98
+1853,New York,9.68
+1854,New York,9.56
+1855,New York,9.11
+1856,New York,8.20
+1857,New York,8.52
+1858,New York,9.13
+1859,New York,9.17
+1860,New York,9.18
+1861,New York,9.47
+1862,New York,9.00
+1863,New York,9.09
+1864,New York,9.29
+1865,New York,9.64
+1866,New York,8.95
+1867,New York,8.59
+1868,New York,7.95
+1869,New York,8.85
+1870,New York,10.04
+1871,New York,8.94
+1872,New York,8.61
+1873,New York,8.44
+1874,New York,9.06
+1875,New York,7.74
+1876,New York,9.35
+1877,New York,10.15
+1878,New York,10.38
+1879,New York,9.37
+1880,New York,9.99
+1881,New York,9.77
+1882,New York,9.22
+1883,New York,8.59
+1884,New York,9.36
+1885,New York,8.37
+1886,New York,8.90
+1887,New York,9.10
+1888,New York,8.31
+1889,New York,9.86
+1890,New York,9.62
+1891,New York,10.00
+1892,New York,9.15
+1893,New York,8.68
+1894,New York,9.95
+1895,New York,9.22
+1896,New York,9.51
+1897,New York,9.63
+1898,New York,10.24
+1899,New York,9.51
+1900,New York,10.40
+1901,New York,9.29
+1902,New York,9.43
+1903,New York,9.32
+1904,New York,7.87
+1905,New York,9.10
+1906,New York,9.90
+1907,New York,8.49
+1908,New York,9.87
+1909,New York,9.51
+1910,New York,9.55
+1911,New York,9.91
+1912,New York,9.24
+1913,New York,10.76
+1914,New York,9.02
+1915,New York,9.85
+1916,New York,9.10
+1917,New York,8.24
+1918,New York,9.51
+1919,New York,10.05
+1920,New York,9.19
+1921,New York,10.91
+1922,New York,10.04
+1923,New York,9.51
+1924,New York,8.85
+1925,New York,9.72
+1926,New York,8.54
+1927,New York,9.70
+1928,New York,9.82
+1929,New York,9.97
+1930,New York,10.22
+1931,New York,11.03
+1932,New York,10.44
+1933,New York,10.18
+1934,New York,9.48
+1935,New York,9.48
+1936,New York,9.73
+1937,New York,10.16
+1938,New York,10.42
+1939,New York,10.07
+1940,New York,8.53
+1941,New York,10.19
+1942,New York,9.96
+1943,New York,9.58
+1944,New York,10.01
+1945,New York,9.94
+1946,New York,10.63
+1947,New York,9.91
+1948,New York,9.83
+1949,New York,11.39
+1950,New York,9.72
+1951,New York,10.27
+1952,New York,10.52
+1953,New York,11.17
+1954,New York,10.31
+1955,New York,10.39
+1956,New York,9.75
+1957,New York,10.50
+1958,New York,9.16
+1959,New York,10.77
+1960,New York,9.76
+1961,New York,10.03
+1962,New York,9.32
+1963,New York,9.32
+1964,New York,9.96
+1965,New York,9.63
+1966,New York,9.75
+1967,New York,9.30
+1968,New York,9.75
+1969,New York,9.76
+1970,New York,9.77
+1971,New York,10.01
+1972,New York,9.49
+1973,New York,10.96
+1974,New York,10.08
+1975,New York,10.56
+1976,New York,9.53
+1977,New York,9.96
+1978,New York,9.17
+1979,New York,10.02
+1980,New York,9.86
+1981,New York,9.95
+1982,New York,9.78
+1983,New York,10.51
+1984,New York,10.26
+1985,New York,10.26
+1986,New York,10.15
+1987,New York,10.32
+1988,New York,9.93
+1989,New York,9.66
+1990,New York,11.32
+1991,New York,11.36
+1992,New York,9.57
+1993,New York,10.04
+1994,New York,10.00
+1995,New York,10.24
+1996,New York,9.81
+1997,New York,10.00
+1998,New York,11.82
+1999,New York,11.16
+2000,New York,9.97
+2001,New York,10.93
+2002,New York,11.25
+2003,New York,9.84
+2004,New York,10.39
+2005,New York,10.68
+2006,New York,11.52
+2007,New York,10.63
+2008,New York,10.64
+2009,New York,10.14
+2010,New York,11.36
+2011,New York,11.27
+2012,New York,11.97
+2013,New York,12.16
+1743,Paris,7.65
+1744,Paris,11.48
+1745,Paris,4.73
+1746,Paris,
+1747,Paris,
+1748,Paris,
+1749,Paris,
+1750,Paris,11.18
+1751,Paris,11.15
+1752,Paris,6.97
+1753,Paris,10.40
+1754,Paris,10.15
+1755,Paris,9.84
+1756,Paris,10.20
+1757,Paris,10.02
+1758,Paris,9.62
+1759,Paris,10.66
+1760,Paris,10.50
+1761,Paris,10.55
+1762,Paris,10.06
+1763,Paris,9.83
+1764,Paris,10.31
+1765,Paris,10.15
+1766,Paris,9.99
+1767,Paris,10.01
+1768,Paris,10.07
+1769,Paris,10.10
+1770,Paris,9.99
+1771,Paris,9.98
+1772,Paris,10.94
+1773,Paris,10.35
+1774,Paris,10.32
+1775,Paris,10.92
+1776,Paris,10.25
+1777,Paris,10.17
+1778,Paris,10.80
+1779,Paris,11.36
+1780,Paris,10.63
+1781,Paris,11.40
+1782,Paris,9.53
+1783,Paris,11.01
+1784,Paris,9.45
+1785,Paris,9.49
+1786,Paris,9.65
+1787,Paris,10.53
+1788,Paris,10.48
+1789,Paris,9.80
+1790,Paris,10.59
+1791,Paris,10.65
+1792,Paris,10.60
+1793,Paris,10.66
+1794,Paris,11.09
+1795,Paris,10.37
+1796,Paris,10.26
+1797,Paris,10.55
+1798,Paris,10.52
+1799,Paris,8.89
+1800,Paris,10.46
+1801,Paris,10.64
+1802,Paris,10.46
+1803,Paris,9.90
+1804,Paris,10.46
+1805,Paris,9.09
+1806,Paris,11.16
+1807,Paris,10.24
+1808,Paris,9.52
+1809,Paris,9.90
+1810,Paris,9.87
+1811,Paris,11.17
+1812,Paris,9.36
+1813,Paris,9.77
+1814,Paris,9.22
+1815,Paris,10.06
+1816,Paris,8.89
+1817,Paris,10.06
+1818,Paris,10.76
+1819,Paris,10.79
+1820,Paris,9.68
+1821,Paris,10.67
+1822,Paris,11.54
+1823,Paris,10.00
+1824,Paris,10.48
+1825,Paris,10.87
+1826,Paris,10.70
+1827,Paris,10.08
+1828,Paris,11.02
+1829,Paris,8.76
+1830,Paris,9.59
+1831,Paris,10.80
+1832,Paris,10.02
+1833,Paris,10.26
+1834,Paris,11.57
+1835,Paris,10.18
+1836,Paris,10.30
+1837,Paris,9.80
+1838,Paris,9.29
+1839,Paris,10.19
+1840,Paris,9.63
+1841,Paris,10.15
+1842,Paris,9.99
+1843,Paris,10.36
+1844,Paris,9.70
+1845,Paris,9.43
+1846,Paris,11.41
+1847,Paris,10.01
+1848,Paris,10.39
+1849,Paris,10.34
+1850,Paris,9.79
+1851,Paris,9.76
+1852,Paris,10.98
+1853,Paris,9.32
+1854,Paris,10.23
+1855,Paris,8.98
+1856,Paris,10.32
+1857,Paris,10.88
+1858,Paris,9.94
+1859,Paris,11.09
+1860,Paris,9.15
+1861,Paris,10.30
+1862,Paris,10.82
+1863,Paris,10.78
+1864,Paris,9.36
+1865,Paris,10.78
+1866,Paris,10.77
+1867,Paris,10.10
+1868,Paris,11.33
+1869,Paris,10.31
+1870,Paris,9.72
+1871,Paris,9.43
+1872,Paris,11.07
+1873,Paris,10.36
+1874,Paris,10.29
+1875,Paris,10.17
+1876,Paris,10.57
+1877,Paris,10.49
+1878,Paris,10.13
+1879,Paris,8.68
+1880,Paris,10.47
+1881,Paris,9.87
+1882,Paris,10.20
+1883,Paris,9.97
+1884,Paris,10.66
+1885,Paris,9.78
+1886,Paris,10.10
+1887,Paris,9.05
+1888,Paris,9.12
+1889,Paris,9.48
+1890,Paris,9.34
+1891,Paris,9.53
+1892,Paris,9.80
+1893,Paris,10.79
+1894,Paris,10.31
+1895,Paris,9.83
+1896,Paris,9.80
+1897,Paris,10.48
+1898,Paris,10.79
+1899,Paris,10.74
+1900,Paris,10.79
+1901,Paris,9.90
+1902,Paris,9.83
+1903,Paris,10.27
+1904,Paris,10.40
+1905,Paris,10.01
+1906,Paris,10.50
+1907,Paris,10.11
+1908,Paris,9.92
+1909,Paris,9.59
+1910,Paris,10.32
+1911,Paris,11.16
+1912,Paris,10.34
+1913,Paris,10.76
+1914,Paris,10.53
+1915,Paris,10.21
+1916,Paris,10.39
+1917,Paris,9.37
+1918,Paris,10.54
+1919,Paris,9.69
+1920,Paris,10.67
+1921,Paris,11.43
+1922,Paris,9.79
+1923,Paris,10.46
+1924,Paris,10.10
+1925,Paris,10.11
+1926,Paris,10.84
+1927,Paris,10.32
+1928,Paris,10.93
+1929,Paris,10.10
+1930,Paris,10.87
+1931,Paris,9.94
+1932,Paris,10.38
+1933,Paris,10.32
+1934,Paris,11.14
+1935,Paris,10.62
+1936,Paris,10.50
+1937,Paris,10.93
+1938,Paris,10.73
+1939,Paris,10.55
+1940,Paris,9.72
+1941,Paris,9.93
+1942,Paris,9.99
+1943,Paris,11.20
+1944,Paris,10.48
+1945,Paris,11.30
+1946,Paris,10.35
+1947,Paris,11.29
+1948,Paris,10.95
+1949,Paris,11.51
+1950,Paris,10.77
+1951,Paris,10.59
+1952,Paris,10.53
+1953,Paris,10.84
+1954,Paris,10.25
+1955,Paris,10.44
+1956,Paris,9.59
+1957,Paris,10.94
+1958,Paris,10.62
+1959,Paris,11.66
+1960,Paris,10.83
+1961,Paris,11.43
+1962,Paris,9.55
+1963,Paris,9.14
+1964,Paris,10.45
+1965,Paris,9.94
+1966,Paris,10.82
+1967,Paris,10.77
+1968,Paris,10.20
+1969,Paris,10.53
+1970,Paris,10.51
+1971,Paris,10.63
+1972,Paris,10.19
+1973,Paris,10.57
+1974,Paris,10.91
+1975,Paris,10.73
+1976,Paris,11.41
+1977,Paris,10.69
+1978,Paris,10.03
+1979,Paris,10.05
+1980,Paris,10.07
+1981,Paris,10.66
+1982,Paris,11.27
+1983,Paris,11.17
+1984,Paris,10.65
+1985,Paris,9.87
+1986,Paris,10.17
+1987,Paris,10.05
+1988,Paris,11.30
+1989,Paris,11.77
+1990,Paris,11.96
+1991,Paris,10.60
+1992,Paris,11.15
+1993,Paris,10.70
+1994,Paris,11.96
+1995,Paris,11.69
+1996,Paris,10.14
+1997,Paris,11.59
+1998,Paris,11.25
+1999,Paris,11.83
+2000,Paris,11.74
+2001,Paris,11.37
+2002,Paris,11.87
+2003,Paris,11.91
+2004,Paris,11.34
+2005,Paris,11.55
+2006,Paris,11.79
+2007,Paris,11.75
+2008,Paris,11.28
+2009,Paris,11.46
+2010,Paris,10.41
+2011,Paris,12.33
+2012,Paris,11.22
+2013,Paris,11.01
+1845,Tokyo,11.95
+1846,Tokyo,12.40
+1847,Tokyo,12.21
+1848,Tokyo,12.14
+1849,Tokyo,12.14
+1850,Tokyo,11.71
+1851,Tokyo,11.76
+1852,Tokyo,11.73
+1853,Tokyo,11.86
+1854,Tokyo,12.24
+1855,Tokyo,12.56
+1856,Tokyo,12.06
+1857,Tokyo,11.94
+1858,Tokyo,12.23
+1859,Tokyo,12.15
+1860,Tokyo,11.72
+1861,Tokyo,11.79
+1862,Tokyo,11.73
+1863,Tokyo,12.45
+1864,Tokyo,11.95
+1865,Tokyo,12.39
+1866,Tokyo,11.58
+1867,Tokyo,12.46
+1868,Tokyo,12.25
+1869,Tokyo,12.03
+1870,Tokyo,16.12
+1871,Tokyo,12.12
+1872,Tokyo,12.00
+1873,Tokyo,11.53
+1874,Tokyo,12.33
+1875,Tokyo,12.17
+1876,Tokyo,12.39
+1877,Tokyo,12.73
+1878,Tokyo,12.24
+1879,Tokyo,12.82
+1880,Tokyo,12.43
+1881,Tokyo,12.15
+1882,Tokyo,12.29
+1883,Tokyo,11.84
+1884,Tokyo,11.18
+1885,Tokyo,11.53
+1886,Tokyo,12.44
+1887,Tokyo,12.25
+1888,Tokyo,12.01
+1889,Tokyo,11.66
+1890,Tokyo,13.50
+1891,Tokyo,12.42
+1892,Tokyo,12.10
+1893,Tokyo,11.71
+1894,Tokyo,12.92
+1895,Tokyo,12.22
+1896,Tokyo,12.33
+1897,Tokyo,11.72
+1898,Tokyo,12.49
+1899,Tokyo,12.32
+1900,Tokyo,12.11
+1901,Tokyo,12.31
+1902,Tokyo,12.22
+1903,Tokyo,12.34
+1904,Tokyo,12.29
+1905,Tokyo,12.03
+1906,Tokyo,11.66
+1907,Tokyo,11.97
+1908,Tokyo,11.72
+1909,Tokyo,12.04
+1910,Tokyo,12.00
+1911,Tokyo,12.81
+1912,Tokyo,12.32
+1913,Tokyo,11.72
+1914,Tokyo,13.10
+1915,Tokyo,12.74
+1916,Tokyo,13.10
+1917,Tokyo,12.04
+1918,Tokyo,12.19
+1919,Tokyo,12.59
+1920,Tokyo,12.69
+1921,Tokyo,12.12
+1922,Tokyo,12.86
+1923,Tokyo,12.64
+1924,Tokyo,12.35
+1925,Tokyo,12.19
+1926,Tokyo,11.74
+1927,Tokyo,12.19
+1928,Tokyo,12.42
+1929,Tokyo,12.44
+1930,Tokyo,13.00
+1931,Tokyo,12.16
+1932,Tokyo,12.67
+1933,Tokyo,12.69
+1934,Tokyo,11.85
+1935,Tokyo,12.25
+1936,Tokyo,12.09
+1937,Tokyo,12.86
+1938,Tokyo,12.60
+1939,Tokyo,12.72
+1940,Tokyo,12.66
+1941,Tokyo,12.61
+1942,Tokyo,12.80
+1943,Tokyo,12.48
+1944,Tokyo,12.16
+1945,Tokyo,11.62
+1946,Tokyo,12.86
+1947,Tokyo,11.99
+1948,Tokyo,13.18
+1949,Tokyo,12.62
+1950,Tokyo,13.21
+1951,Tokyo,12.72
+1952,Tokyo,12.65
+1953,Tokyo,12.51
+1954,Tokyo,12.76
+1955,Tokyo,13.42
+1956,Tokyo,12.61
+1957,Tokyo,12.66
+1958,Tokyo,13.09
+1959,Tokyo,13.50
+1960,Tokyo,13.26
+1961,Tokyo,13.66
+1962,Tokyo,13.01
+1963,Tokyo,12.71
+1964,Tokyo,12.93
+1965,Tokyo,12.27
+1966,Tokyo,12.81
+1967,Tokyo,12.85
+1968,Tokyo,12.75
+1969,Tokyo,12.64
+1970,Tokyo,12.35
+1971,Tokyo,12.52
+1972,Tokyo,13.17
+1973,Tokyo,12.96
+1974,Tokyo,12.23
+1975,Tokyo,12.72
+1976,Tokyo,12.19
+1977,Tokyo,12.94
+1978,Tokyo,13.05
+1979,Tokyo,13.83
+1980,Tokyo,12.35
+1981,Tokyo,12.06
+1982,Tokyo,12.91
+1983,Tokyo,12.64
+1984,Tokyo,11.98
+1985,Tokyo,12.90
+1986,Tokyo,12.22
+1987,Tokyo,13.41
+1988,Tokyo,12.44
+1989,Tokyo,13.35
+1990,Tokyo,14.14
+1991,Tokyo,13.32
+1992,Tokyo,12.94
+1993,Tokyo,12.49
+1994,Tokyo,13.78
+1995,Tokyo,12.98
+1996,Tokyo,12.61
+1997,Tokyo,13.43
+1998,Tokyo,13.74
+1999,Tokyo,13.78
+2000,Tokyo,13.50
+2001,Tokyo,13.13
+2002,Tokyo,13.42
+2003,Tokyo,12.89
+2004,Tokyo,14.05
+2005,Tokyo,12.99
+2006,Tokyo,13.28
+2007,Tokyo,13.68
+2008,Tokyo,13.31
+2009,Tokyo,13.55
+2010,Tokyo,13.82
+2011,Tokyo,13.32
+2012,Tokyo,13.11
+2013,Tokyo,13.91
